@@ -1,8 +1,8 @@
 {
   "fa": {
     "subscribed_button": "من مشترک شدم",
-    "lang_selector": "این یک بات آزمایشی است. برای ادامه کار، زبان خود را انتخاب کنید\nhttps://github.com/Ton-pro/jetton-airdrop-telegram-bot",
-    "menu_description": "این یک بات آزمایشی است https://github.com/Ton-pro/jetton-airdrop-telegram-bot.\n\nبرای افزایش موجودی، کاربر می‌تواند از برنامه ارجاع دو سطحی با سیستم پاداش قابل تنظیم استفاده کند.\n\nنمونه لینک شما - {link}\n\n👛 کیف پول TON شما: <code>{wallet}</code>\n\nموجودی توکن‌های شما: {tokens}\nارجاعات سطح اول: {level_1}\nارجاعات سطح دوم: {level_2}",
+    "lang_selector": "برای ادامه کار، زبان خود را انتخاب کنید",
+    "menu_description": "\n\nبرای افزایش موجودی، کاربر می‌تواند از برنامه ارجاع دو سطحی با سیستم پاداش قابل تنظیم استفاده کند.\n\nنمونه لینک شما - {link}\n\n👛 کیف پول TON شما: <code>{wallet}</code>\n\nموجودی توکن‌های شما: {tokens}\nارجاعات سطح اول: {level_1}\nارجاعات سطح دوم: {level_2}",
     "invite_friends": "👥 دعوت از دوستان",
     "check_payment": "✅ بررسی تراکنش",
     "bind_wallet": "👛 اتصال کیف پول",
@@ -43,8 +43,8 @@
   },
   "en": {
     "subscribed_button": "I subscribed",
-    "lang_selector": "This is a demo bot. For further work, select your language\nhttps://github.com/Ton-pro/jetton-airdrop-telegram-bot",
-    "menu_description": "This is a demo bot https://github.com/Ton-pro/jetton-airdrop-telegram-bot. 👍\n\nTo increase balance user can use two-level referral program, with a customizable system of calculating rewards.\n\nExample of your link - {link}\n\n👛 Your TON wallet: {wallet}\n\nYour token balance: {tokens}\nTier 1 referrals: {level_1}\nReferrals 2nd level: {level_2}",
+    "lang_selector": "For further work, select your language",
+    "menu_description": ". 👍\n\nTo increase balance user can use two-level referral program, with a customizable system of calculating rewards.\n\nExample of your link - {link}\n\n👛 Your TON wallet: {wallet}\n\nYour token balance: {tokens}\nTier 1 referrals: {level_1}\nReferrals 2nd level: {level_2}",
     "invite_friends": "👥 Invite friends",
     "check_payment": "✅ Verify the transaction",
     "bind_wallet": "👛 Bind wallet",
