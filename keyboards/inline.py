@@ -66,7 +66,7 @@ class InlineKeyboard:
     @classmethod
     async def select_lang(cls):
         keyboard = [
-            [InlineKeyboardButton(text='Русский', callback_data='lang_ru')],
+            [InlineKeyboardButton(text='Farsi', callback_data='lang_fa')],
             [InlineKeyboardButton(text='English', callback_data='lang_en')],
         ]
         return InlineKeyboardMarkup(inline_keyboard=keyboard)

@@ -10,8 +10,8 @@ async def main():
     await Database.db_init()
 
     bot_commands = (
-        ("start", "Начало работы с ботом"),
-        ('menu', 'Переход в меню')
+        ("start", "شروع"),
+        ('menu', 'منو')
     )
 
     commands_for_bot = []

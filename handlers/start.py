@@ -17,8 +17,8 @@ async def start_callback(callback: CallbackQuery, cached_user):
 
 async def start_lang_callback(callback: CallbackQuery, cached_user):
     user_id = cached_user.user_id
-    if callback.data == 'lang_ru':
-        lang = 'ru'
+    if callback.data == 'lang_fa':
+        lang = 'fa'
     if callback.data == 'lang_en':
         lang = 'en'
 
