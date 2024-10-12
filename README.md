@@ -1,7 +1,4 @@
 # Jetton Airdrop Telegram Bot
-
-**⚡️Important note: you are able to deploy advanced stable version of this bot in 10 minutes via https://t.me/ez_airdrop_bot**
-
 __________________
 
 To run a telegram bot, you will need any server with a Linux operating system and docker and docker-compose installed
