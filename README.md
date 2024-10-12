@@ -4,7 +4,7 @@ __________________
 To run a telegram bot, you will need any server with a Linux operating system and docker and docker-compose installed
 Clone the repository
 ```
-git clone https://github.com/Ton-pro/jetton-airdrop-telegram-bot.git
+git clone https://github.com/megapinet/AirDrop-Tg.git
 ```
 Go to the folder with the project
 ```
